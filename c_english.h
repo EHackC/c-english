@@ -1,6 +1,8 @@
 #ifndef _CENGLISH_H
 #define _CENGLISH_H
 
+#include <stdio.h>
+
 // ----------------------------------------------------------------
 // -- data type
 // ----------------------------------------------------------------
@@ -42,5 +44,9 @@
 // puts
 #define Prints_the_character_(x) puts((x)
 #define _to_the_screen );
+
+// printf %d
+#define Prints_the_number_(x) printf("%d\n",(x)
+// #define _to_the_screen );
 
 #endif
