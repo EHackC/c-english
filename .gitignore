@@ -1,0 +1,5 @@
+test.c
+Makefile
+*.o
+*.exe
+*.out
