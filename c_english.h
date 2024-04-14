@@ -28,7 +28,11 @@
 // ----------------------------------------------------------------
 
 // return
-#define Returns_the_value_(x) return x
+#define Returns_the_value_(x) return (x)
+
+// while
+#define Loop_while_condition_(x) while((x)
+#define _is_true ){
 
 
 // ----------------------------------------------------------------
@@ -36,8 +40,7 @@
 // ----------------------------------------------------------------
 
 // puts
-#define Prints_the_character_(x) puts(x
+#define Prints_the_character_(x) puts((x)
 #define _to_the_screen );
-
 
 #endif
