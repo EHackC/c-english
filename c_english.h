@@ -43,13 +43,13 @@
 
 // assignment operator
 #define Assign_(x) (x)=
-#define Increment_(x) x+=
-#define Decrement_(x) x-=
-#define Multiply_(x) x*=
-#define Divide_(x) x/=
+#define Increment_(x) (x)+=
+#define Decrement_(x) (x)-=
+#define Multiply_(x) (x)*=
+#define Divide_(x) (x)/=
 
-#define _the_value_of_(x) x
-#define _by_the_value_of_(x) x
+#define _the_value_of_(x) (x)
+#define _by_the_value_of_(x) (x)
 #define _by_one 1
 
 // comparison operators
@@ -67,7 +67,7 @@
 
 #define Declare_an_(x) x
 #define _variable_named_(x) x
-#define _and_initialize_it_to_(x) =x
+#define _and_initialize_it_to_(x) =(x)
 
 
 // ----------------------------------------------------------------
