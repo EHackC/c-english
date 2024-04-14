@@ -48,7 +48,7 @@
 // decrement operator
 #define Decrement_(x) x--
 #define Increment_(x) x++
-#define by one ;
+#define _by_one ;
 
 
 // ----------------------------------------------------------------
