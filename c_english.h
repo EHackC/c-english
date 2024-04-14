@@ -80,11 +80,11 @@
 // -- stdio.h
 // ----------------------------------------------------------------
 
-// puts
-#define Prints_the_character_(x) printf("%s",(x)
+// print string
+#define Prints_the_string_(x) printf("%s",(x)
 #define _to_the_screen )
 
-// printf %d
+// print number
 #define Prints_the_number_(x) printf("%d",(x)
 // #define _to_the_screen )
 
