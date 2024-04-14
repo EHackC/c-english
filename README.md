@@ -10,7 +10,7 @@ A header file that enables writing code using only English sentences.
 #include "c_english.h"
 
 An_(integer)_return_type_(main)_function_is_defined_as_follows
-    Prints_the_character_("Hello, World!\n")_to_the_screen;
+    Prints_the_string_("Hello, World!\n")_to_the_screen;
 
     Returns_the_value_(0);
 End_the_block
@@ -31,7 +31,7 @@ An_(integer)_return_type_(main)_function_is_defined_as_follows
     End_the_block
 
     Prints_the_number_(total)_to_the_screen;
-    Prints_the_character_("\n")_to_the_screen;
+    Prints_the_string_("\n")_to_the_screen;
 
     Returns_the_value_(0);
 End_the_block
