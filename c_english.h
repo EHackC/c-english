@@ -60,6 +60,12 @@
 #define is_less_than <
 #define is_less_than_or_equal_to <=
 
+// arithmetic operators
+#define plus +
+#define minus -
+#define multiplied_by *
+#define divided_by /
+
 
 // ----------------------------------------------------------------
 // -- declaration
