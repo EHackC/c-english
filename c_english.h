@@ -36,6 +36,12 @@
 #define Loop_while_condition_(x) while((x)
 #define _is_true ){
 
+// if
+#define If_(x) if((x)
+#define _evaluates_to_true ){
+#define Otherwise }else{
+#define Else_if_(x) }else if((x)
+
 
 // ----------------------------------------------------------------
 // -- operator
