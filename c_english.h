@@ -45,6 +45,11 @@
 #define Assign_(x) (x)=
 #define _the_value_of_(x) x
 
+// decrement operator
+#define Decrement_(x) x--
+#define Increment_(x) x++
+#define by one ;
+
 
 // ----------------------------------------------------------------
 // -- declaration
