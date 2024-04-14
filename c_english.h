@@ -50,6 +50,7 @@
 
 #define _the_value_of_(x) x
 #define _by_the_value_of_(x) x
+#define _by_one 1
 
 // comparison operators
 #define is_equal_to ==
