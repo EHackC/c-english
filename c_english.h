@@ -50,6 +50,14 @@
 #define Increment_(x) x++
 #define _by_one ;
 
+// comparison operators
+#define is_equal_to ==
+#define is_not_equal_to !=
+#define is_greater_than >
+#define is_greater_than_or_equal_to >=
+#define is_less_than <
+#define is_less_than_or_equal_to <=
+
 
 // ----------------------------------------------------------------
 // -- declaration
