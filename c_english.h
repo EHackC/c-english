@@ -43,7 +43,13 @@
 
 // assignment operator
 #define Assign_(x) (x)=
+#define Increment_(x) x+=
+#define Decrement_(x) x-=
+#define Multiply_(x) x*=
+#define Divide_(x) x/=
+
 #define _the_value_of_(x) x
+#define _by_the_value_of_(x) x
 
 // comparison operators
 #define is_equal_to ==
