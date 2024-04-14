@@ -82,10 +82,10 @@
 
 // puts
 #define Prints_the_character_(x) puts((x)
-#define _to_the_screen );
+#define _to_the_screen )
 
 // printf %d
 #define Prints_the_number_(x) printf("%d\n",(x)
-// #define _to_the_screen );
+// #define _to_the_screen )
 
 #endif
