@@ -80,12 +80,13 @@
 // -- stdio.h
 // ----------------------------------------------------------------
 
-// print string
+// print
 #define Prints_the_string_(x) printf("%s",(x)
+#define Prints_the_number_(x) printf("%d",(x)
 #define _to_the_screen )
 
-// print number
-#define Prints_the_number_(x) printf("%d",(x)
-// #define _to_the_screen )
+// input
+#define Accept_an_string_input_from_the_user_and_store_it_in_the_(x) scanf("%s",&(x))
+#define Accept_an_number_input_from_the_user_and_store_it_in_the_(x) scanf("%d",&(x))
 
 #endif
