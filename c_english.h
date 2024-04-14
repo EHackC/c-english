@@ -45,11 +45,6 @@
 #define Assign_(x) (x)=
 #define _the_value_of_(x) x
 
-// decrement operator
-#define Decrement_(x) x--
-#define Increment_(x) x++
-#define _by_one ;
-
 // comparison operators
 #define is_equal_to ==
 #define is_not_equal_to !=
